@@ -17,13 +17,13 @@
 
 ### 🛠 Tech Stack
 
-#### Languages
+#### 🚀Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-#### Library & Framework
+#### 🚀Library & Framework
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -42,4 +42,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ngdatdev&theme=tokyonight" />
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ngdatdev/)
+- [Facebook]([https://twitter.com/ngdatdev](https://www.facebook.com/nvdat.6789))
+- [Portfolio]([https://ngdatdev.github.io](https://github.com/ngdatdev))
