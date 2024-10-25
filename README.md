@@ -12,7 +12,7 @@
 - 🌱 I’m constantly learning and exploring new technologies.
 - 💼 I’m actively looking for `job opportunities`, check out [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - 🤝 I’m open to collaborating on interesting and impactful projects.
-  
+- 📝 I'm loading...
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 🛠 Tech Stack
