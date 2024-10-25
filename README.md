@@ -24,12 +24,13 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 #### 🚀Library & Framework
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -47,8 +48,8 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/-nguyendatzxcl?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="nguyen.dat.fr@gmail.com"><img src="https://img.shields.io/badge/-nguyen.dat.fr@gmail.com&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/nguyendat?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nguyendatzxcl"><img src="https://img.shields.io/badge/-nguyendatzxcl-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:nguyen.dat.fr@gmail.com"><img src="https://img.shields.io/badge/-nguyen.dat.fr@gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-nguyendat-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
