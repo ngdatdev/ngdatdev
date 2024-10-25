@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Software+Engineering+Student;Passionate+Problem+Solver;Always+Learning+New+Things">
 </p>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=40px></picture> About Me
 - 🎓 I’m a `Third-Year Student` at FPT University, pursuing a degree in `Software Engineering`.
@@ -13,7 +13,6 @@
 - 💼 I’m actively looking for `job opportunities`, check out [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - 🤝 I’m open to collaborating on interesting and impactful projects.
   
----
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 🛠 Tech Stack
