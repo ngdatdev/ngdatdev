@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Dat <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nguyen+Dat!;I'm a+Learning+Developer...;And+I'm+a+proud+Vietnamese+🇵🇰)](https://github.com/ngdatdev)
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
 <br><br>
 - :school: I am a `Student` at  FPT University.
 - :technologist: I love using Software as a solution for every `Problem`.
