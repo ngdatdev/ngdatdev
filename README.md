@@ -46,6 +46,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ngdatdev/)
-- [Facebook]([https://twitter.com/ngdatdev](https://www.facebook.com/nvdat.6789))
-- [Portfolio]([https://ngdatdev.github.io](https://github.com/ngdatdev))
+<p align="center">
+<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="nguyen.dat.fr@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
