@@ -10,7 +10,7 @@
 - 🎓 I’m a `Third-Year Student` at FPT University, pursuing a degree in `Software Engineering`.
 - 💡 I’m passionate about using technology to solve real-world problems.
 - 🌱 I’m constantly learning and exploring new technologies.
-- 💼 I’m actively looking for `job opportunities`, check out [MY RESUME](https://drive.google.com/drive/u/0/folders/1VO-_x8jafIOECgYiN0ZFfCIwjCRPF4z9).
+- 💼 I’m actively looking for `job opportunities`, check out [MY RESUME](https://drive.google.com/file/d/178Pkb0c-CzeCLw_TnAsLIvAgoML0bMnW/view).
 - 🤝 I’m open to collaborating on interesting and impactful projects.
 - 📝 I'm loading...
 
