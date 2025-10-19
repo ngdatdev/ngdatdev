@@ -7,10 +7,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=40px></picture> About Me
-- 🎓 I’m a `Third-Year Student` at FPT University, pursuing a degree in `Software Engineering`.
 - 💡 I’m passionate about using technology to solve real-world problems.
 - 🌱 I’m constantly learning and exploring new technologies.
-- 💼 I’m currently work at FPT Software, check out [MY RESUME](https://drive.google.com/file/d/178Pkb0c-CzeCLw_TnAsLIvAgoML0bMnW/view).
+- 💼 I’m currently work at FPT Software.
 - 🤝 I’m open to collaborating on interesting and impactful projects.
 - 📝 I'm loading...
 
