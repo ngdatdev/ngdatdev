@@ -48,7 +48,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nguyendatzxcl"><img src="https://img.shields.io/badge/-nguyendatzxcl-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/ngdatdev/"><img src="https://img.shields.io/badge/-nguyendatzxcl-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:nguyen.dat.fr@gmail.com"><img src="https://img.shields.io/badge/-nguyen.dat.fr@gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/nvdat.6789"><img src="https://img.shields.io/badge/-nguyendat-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
