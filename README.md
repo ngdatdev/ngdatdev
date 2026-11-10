@@ -2,9 +2,9 @@
 
 # Hi, I'm Nguyen Van Dat 👋
 
-### Full-stack Software Engineer · Java / Spring Boot · ReactJS · AI-assisted Engineering
+### Software Engineer · Building reliable products and AI-powered workflows
 
-<a href="https://github.com/ngdatdev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=3+years+building+enterprise+web+applications;Java+%2F+Spring+Boot+%C2%B7+ReactJS+%C2%B7+Next.js;Cloud-native+microservices+on+AWS;Multi-agent+AI+workflows+with+Copilot+%2B+MCP" alt="Typing SVG" /></a>
+<a href="https://github.com/ngdatdev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Building+enterprise+platforms+end+to+end;Cloud-native+microservices+on+AWS;Multi-agent+AI+workflows+with+Copilot+%2B+MCP;Multi-tenant+SaaS+in+Rust" alt="Typing SVG" /></a>
 
 <p>
   <a href="mailto:nguyen.dat.fr@gmail.com"><img src="https://img.shields.io/badge/Email-nguyen.dat.fr%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
