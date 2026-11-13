@@ -86,18 +86,6 @@
 
 ---
 
-## 📂 Featured work
-
-| Project | Highlights | Stack |
-|---|---|---|
-| 💳 **AI-assisted Credit Card Platform Modernization** · Japan | Multi-agent pipeline with Copilot agents, MCP server and metadata DB; shared Spring Boot foundation for a 30-person team; final code review & merge | Java 25 · Spring Boot · Redis · AWS ECS · Copilot · MCP |
-| ⚡ **BizNex B2B Client Portal** · Japan | Event-driven microservices: outbox + RabbitMQ for reliable orders, Spring Batch data sync, request tracing across services, production support | Java 21 · Spring Boot · RabbitMQ · PostgreSQL · ReactJS · AWS CDK |
-| 🦀 **Multi-Tenant AI Superannuation Platform** · Australia | Rust observability library for all services; per-tenant Cognito pools and OpenFGA authorization | Rust · OpenTelemetry · AWS Lambda · Terraform |
-| 🤖 **AI Chatbot Support Assistant** · Australia | RAG chatbot answering from policy documents; embeddable React chat widget | C# · Semantic Kernel · OpenAI · Qdrant · React |
-| 🏥 **Clinic Appointment Booking** · Japan | Smart slot scheduling, double-booking prevention, automated reminders | Spring Boot · PostgreSQL · Next.js |
-
----
-
 ## 📊 GitHub stats
 
 <div align="center">
